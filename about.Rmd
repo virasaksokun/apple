@@ -1,0 +1,22 @@
+---
+title: "About Me"
+output: html_document
+
+---
+<br>
+
+***
+<body>
+
+Hello! My name is **Virasak Sokun**, a business analytics graduate from Deakin University and a permanent member of the Golden Key International Honour Society []() base on the top 15% academic achievement. My background is in data analytics, data visualisation, decision modeling, and enterprise architecture and governance. My previous project was consulting Ambulance Victoria to optimize its rostering system as a response to high demands in emergency needs across Victoria using optimizing model techniques and public data. I also worked on another consulting project for Netball Australia, the biggest national team sport in Australia.
+
+I am inspired by the power of big data which contributes to the success of the organization. I am determined to build his professional career in business analytics and data science both academically and through continued professional development.
+
+I have recently completed my degree at Deakin University and am looking for a graduate roles within business analytics/data science stream. Furthermore, I am always interested in a challenge involving big data.
+
+Reach out to me sokunvirasak@gmail.com to connect!
+
+LinkedIn:https://www.linkedin.com/in/virasak-sokun/
+
+</body>
+

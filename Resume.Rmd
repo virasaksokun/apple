@@ -1,0 +1,20 @@
+---
+title: "Virasak's Resume"
+output: html_document
+
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+<br>
+```{r out.width= "90%", echo = FALSE, out.height= "1000px", fig.align= "center"}
+knitr::include_graphics("./Documents/Virasak-SOKUN-Resume++.pdf")
+
+```
+
+
+
